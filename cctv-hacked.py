@@ -156,9 +156,8 @@ print("""
 14. Singapure
 15. Myanmar
 16. Columbia
-----Project by Yan4ik----
-Subscribe to Yan4ik Channel on YouTube! 
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
+----AMH-HC----
+
 ------Version 1.2------                      
 """)
 num = int(input("country : "))
