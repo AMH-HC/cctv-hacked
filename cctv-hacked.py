@@ -160,7 +160,7 @@ if num == 1:
         os.system(delet)
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
-            for page in range (0,82):
+            for page in range (0,5):
 			
                 url = ("http://www.insecam.org/en/bycountry/MM/?page="+str(page))
             
